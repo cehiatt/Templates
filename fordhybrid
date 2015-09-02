@@ -1,0 +1,112 @@
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+
+<style type="text/css">
+	
+	#fordhybrid {
+		margin-bottom: 50px:;
+	}
+
+	.fordhybridheaderimg {
+		margin-bottom: 50px;
+	}
+
+	.efficient {
+	color: #425968;
+    display: block;
+    font-family: fordngbs-antenna-bold,"Antenna";
+    font-size: 20px;
+    line-height: 24px;
+    margin: 30px 0!important;
+    text-transform: capitalize;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+.boxbullethr {
+    background-color: #b3b3b3;
+    display: block;
+    height: 2px;
+    margin-bottom: 30px;
+}
+
+.boxbullet li {
+    color: #425968;
+    font-family: fordngbs-antenna,"Antenna";
+    font-size: 14px;
+    line-height: 21px;
+    list-style: disc outside none;
+    margin-bottom: 10px;
+    margin-left: 18px;
+    width: 200px;
+}
+
+
+}
+
+	}
+
+
+</style>
+
+<div class='container' id='fordhybrid'>
+	<div class='fordhybridheaderimg' align='middle'>
+		<h1>Ford Hybrid and Electric Vehicles</h1>
+			<a href='https://media.ford.com/content/fordmedia/fna/us/en/news/2014/06/24/ford-tops-ranking-of-best-global-green-brands.html?fmccmp=lp-fetech-mid' target="_blank">
+				<img src='http://cdn.webstreak.com/uploads/files/000/001/336/original/Ford_Green_BB_V1resized.jpg?1439820052' class='img-responsive'>
+			</a>
+	</div>
+	<div class='col-sm-3' id='hybridcontainer'>
+		<img src='http://cdn.webstreak.com/uploads/files/000/001/337/original/FE_ICONS-ecoboost.jpg?1439820175' class='img-responsive'>
+			<span class='efficient'>Efficiency + Power</span>
+			<span class="boxbullethr"></span>
+				<ul>
+					<li>Turbocharging and direct injection deliver added power without sacrificing performance with great low-end torque responsiveness
+					</li>
+				</ul>
+	</div>
+	<div class='col-sm-3' id='hybridcontainer'>
+		<img src='http://cdn.webstreak.com/uploads/files/000/001/338/original/FE_ICONS-hybrid.jpg?1439821379' class='img-responsive'>
+			<span class='efficient'>Gas Engine + Battery-Driven Electric Motor</span>
+			<span class="boxbullethr"></span>
+				<ul>
+					<li>Vehicle seamlessly switches between gas engine, electric motor or a combination of both</li>
+					<li>Gas engine and regenerative braking helps recharge the battery automatically</li>
+					<li>Doesn't need to be plugged in</li>
+				</ul>
+	</div>
+	<div class='col-sm-3' id='hybridcontainer'>
+		<img src='http://cdn.webstreak.com/uploads/files/000/001/339/original/FE_ICONS-plugin.jpg?1439821713' class='img-responsive'>
+			<span class='efficient'>Part Gas. Part Electric. Plug-In Capability.</span>
+			<span class="boxbullethr"></span>
+				<ul>
+					<li>Progressive hybrid provides the option of plugging in - or not</li>
+					<li>To enhance the hybrid experience, maximize battery capability by plugging in the standard 120V convenience cord or available 240V home charging option</li>
+					<li>Best of both worlds - drive like an electric vehicle for short trips and a hybrid for long ones</li>
+				</ul>
+	</div>
+	<div class='col-sm-3' id='hybridcontainer'>
+		<img src='http://cdn.webstreak.com/uploads/files/000/001/340/original/FE_ICONS-electric.jpg?1439822014' class='img-responsive'>
+			<span class='efficient'>No Gas, 100% Electric</span>
+			<span class="boxbullethr"></span>
+				<ul>
+					<li>Powered completely by a rechargeable battery so you'll never need a drop of gas or an oil change</li>
+					<li>Provides a CO2 - free driving experience</li>
+					<li>Features an electric motor, charge port and state-of-the-art, lithium-ion battery</li>
+					<li>Owners plug in the vehicle to fully charge the battery pack</li>
+					<li>A Ford-branded 240-volt home charging option is available for purchase with or without installation services from <a href='http://www.evsolutions.com/ev-charging-ford' target='_blank'>AeroVironment</a>.</li>
+				</ul>
+	</div>
+
+
+
+
+
+
