@@ -1,0 +1,101 @@
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<style type="text/css">
+.internal-container li {
+   margin-top: 10px;
+   margin-bottom:10px;
+   font-size:1.5em;
+
+}
+
+.internal-container p {
+   margin-top:20px;
+   margin-bottom:20px;
+   font-size:1.5em;
+
+}
+
+.internal-container {
+	margin-bottom:25px;
+}
+
+.header1 {
+   font-size:3em;
+   color:#1d4580;
+   margin-bottom:65px; 
+ }  
+
+.header2 {
+	font-size:2em;
+	color:#1d4580;
+}
+
+.footer1 {
+	font-size:1em;
+	font-style:italic;
+	margin-bottom:10px;
+}
+</style>
+
+<div class='container-fluid internal-container'>
+	<div class='row header1'>
+		<div class='col-md-12' align='middle'>
+		Certified Pre-Owned
+		</div>
+	</div>
+	<div class='row'>
+		<div class='col-md-12'>
+			<p>Every Certified Pre-Owned Vehicle from Chevy, Buick and GMC has the value and confidence you need. That's because every Certified Pre-Owned Vehicle comes with Owner Care, featuring:</p>
+			<p>
+				<ul>
+					<li>2-Year/24,000-Mile<sup>1</sup> CPO Scheduled Maintenance Plan</li>
+					<li>12-Month/12,000-Mile<sup>2</sup> Bumper-to-Bumper Warranty</li>
+					<li>Powertrain Limited Warranty</li>
+					<li>172-Point Vehicle Inspection and Reconditioning Process</li>
+					<li>3-Day/150-Mile Satisfaction Guarantee</li>
+					<li>Vehicle History Report</li>
+				</ul>
+			</p>
+			<div class="panel panel-default">
+  				<div class="panel-body">
+  					<div class='header2'>2-Year/24,000-Mile<sup>1</sup> CPO Scheduled Maintenance Plan</div>
+  						<p>You can feel confident in your decision to buy a Certified Pre-Owned vehicle, long after your purchase. Starting from the delivery of your vehicle, we provide you with our exclusive 2 year/24,000 mile<sup>1</sup> scheduled vehicle maintenance plan - which includes oil and oil filter changes, tire rotations and multipoint vehicle inspections.</p>
+  					<div class='header2'>12-Month/12,000-Mile<sup>2</sup> Bumper-to-Bumper Warranty</div>
+  						<p>Every Certified Pre-Owned Vehicle comes equipped with a comprehensive 12-Month/12,000-Mile<sup>2</sup> Bumper-to-Bumper Warranty. That's four times better coverage than Chrysler.</p>
+  					<div class='header2'>Powertrain Limited Warranty</div>
+  						<p>Every Certified Pre-Owned Vehicle from Chevy, Buick or GMC comes with a $0 deductible transferable 5-Year/100,000-Mile3 Powertrain Limited Warranty, with roadside assistance and courtesy transportation. 2013 model year and newer Certified Pre-owned Buick vehicles (purchased as of 6/24/2013) come with an enhanced 6-year/100,000 Mile3 Powertrain Limited Warranty with $0 deductible.</p>
+  						<p>We believe in our vehicles and aren't afraid to stand behind them.</p>
+  						<p>Transferable to subsequent owners</p>
+  						<p>24-Hour Roadside Assistance</p>
+  					<div class='header2'>172-Point Vehicle Inspection and Reconditioning Process</div>
+  						<p>This is not your regular, every-day used vehicle. Certified status is a name that is earned, and earned only by meeting our strict, factory-set standards. If it doesn't pass, we completely recondition it. Our 172-point vehicle inspection is one of the most comprehensive in the industry — and just one of the differences between a regular used vehicle and a Certified Pre-Owned Vehicle from Chevrolet, Buick or GMC.</p>
+  					</div>
+  					<div class='header2'>3-Day/150-Mile Satisfaction Guarantee</div>
+  						<p>If you're not satisfied with your purchase, simply bring it back to your dealer within the first three days or 150 miles (whichever comes first) to exchange it for a Chevrolet, Buick, Pontiac, GMC or Saturn that fits your needs. No regrets. No doubts. No question about it.</p>
+  					<div class='header2'>Vehicle History Report</div>
+  						<p>We're proud of — and have confidence in — every vehicle we sell. Which is why all Certified Pre-Owned Vehicles from Chevrolet, Buick or GMC come with a detailed Vehicle History Report. Now you can be sure the vehicle that you're purchasing doesn't have any hidden past problems like major accidents, fires or title issues.</p>
+  				</div>
+  			</div>
+  		</div>
+  		<div class='row'>
+  			<div class='col-md-12'>
+  				<div class='footer1'><sup>1</sup>Covers only scheduled oil changes with filter, tire rotations and 27 point inspections, according to your vehicle's recommended maintenance schedule for up to 2 years or 24,000 miles, whichever comes first. Does not include air filters. Maximum of 4 service events. See participating dealer for other restrictions and complete details.
+  				</div>
+  				<div class='footer1'><sup>2</sup>Whichever comes first, from date of purchase. See participating dealer for limited warranty details.
+  				</div>
+  				<div class='footer1'><sup>3</sup>Whichever comes first, from original in-service date. See participating dealer for limited warranty details.
+  				</div>
+  			</div>
+  		</div>
+  	</div>
+
+  			
+  	
+
